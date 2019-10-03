@@ -1,6 +1,4 @@
-# Crystaline Server Monitoring
-
-The purpose of this document is to serve as a reference to what is monitored on each server maintained by Crystaline Technologies LTD.
+# Server Monitoring
 
 *DISCLAIMER* Eventhough all services monitored have been include in this document, only scripts that use Nagios Remote Protocal Executor (NRPE) to talk to a remote server are documented.
 

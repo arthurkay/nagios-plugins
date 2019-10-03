@@ -1,7 +1,7 @@
 #!/bin/bash
 #Author: Arthur Kalikiti
 #Description: Script to check memory usage
-#Email: arthur@crystaline.co.zm
+#Email: arthur@kalikiti.net
 #phone: 0979040735
 
 cpu=$(grep 'cpu ' /proc/stat | awk '{usage=($2+$4)*100/($2+$4+$5)} END {print usage}' | xargs printf '%.0f')

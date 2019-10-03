@@ -2,7 +2,7 @@
 #
 # Author: Arthur Kalikiti
 # Description: Script to check system V init script(s)
-# Email: arthur@crystaline.co.zm
+# Email: arthur@kalikiti.net
 # phone: 0979040735
 
 daemon=$1

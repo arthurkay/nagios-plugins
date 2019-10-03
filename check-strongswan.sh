@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 # Author: Arthur Kalikiti
-# Description: Script to check Strongswan status
-# Email: arthur@crystaline.co.zm
+# Description: Script to check status of any daemon that has the status flag
+# Email: arthur@kalikiti.net
 # phone: 0979040735
 
 daemon=$1

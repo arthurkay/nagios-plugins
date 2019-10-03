@@ -2,7 +2,7 @@
 
 #Author: Arthur Kalikiti
 #Description: Script to check memory usage
-#Email: arthur@crystaline.co.zm
+#Email: arthur@kalikiti.net
 #phone: 0979040735
 
 resp=$(free -mt | grep "Mem" | awk '{print $3}')

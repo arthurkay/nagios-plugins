@@ -1,7 +1,7 @@
 #!/bin/bash
 #Author: Arthur Kalikiti
 #Description: Script to check systemd daemon(s)
-#Email: arthur@crystaline.co.zm
+#Email: arthur@kalikiti.net
 #phone: 0979040735
 
 daemon=$1
